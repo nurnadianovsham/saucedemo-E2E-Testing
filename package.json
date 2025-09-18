@@ -1,0 +1,25 @@
+{
+  "name": "saucedemo-e2e-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurnadianovsham/saucedemo-E2E-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nurnadianovsham/saucedemo-E2E-Testing/issues"
+  },
+  "homepage": "https://github.com/nurnadianovsham/saucedemo-E2E-Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.2"
+  }
+}
