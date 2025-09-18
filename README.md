@@ -84,3 +84,8 @@ npx playwright show-report
 
 - Measures page load times for specific users (e.g., `performance_glitch_user`).
 - Logs detailed timing, network failures, and UI delays during navigation.
+
+***
+
+<img width="3134" height="2338" alt="image" src="https://github.com/user-attachments/assets/8ed42d1f-e03a-4096-8d18-c72f68b1ff96" />
+
