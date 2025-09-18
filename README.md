@@ -19,8 +19,8 @@ This project contains automated end-to-end tests using Playwright to validate th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nurnadianovsham/sasaucedemo-e2e-testing
-cd saucedemo-e2e-testing
+git clone https://github.com/nurnadianovsham/saucedemo-E2E-testing
+cd saucedemo-E2E-testing
 ```
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ Run a specific test file:
 npx playwright test src/tests/login.spec.ts
 ```
 
-Generate and open the HTML report after test run:
+Generate and open the HTML report after the test run:
 
 ```bash
 npx playwright show-report
